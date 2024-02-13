@@ -24,4 +24,4 @@
 <p>Una vez finalizado todo esto, subo dicho repositorio local modificado a la nube de "github" a través del comando "git push --set-upstream origin main" y así tenerlo todo guardado en remoto.<p>
 
 ***9.Noveno Paso.***
-<p>Creo una nueva rama además del main a través del siguiente comando <p>
+<p>Creo una nueva rama además del main a través del siguiente comando "git branch development" y cambio a la nueva rama creada a través del comando "git checkout development". Para subirlo a la nube de github uso el comando "git push origin development."<p>
