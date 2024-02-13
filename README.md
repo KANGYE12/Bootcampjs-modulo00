@@ -24,7 +24,7 @@
 <p>Una vez finalizado todo esto, subo dicho repositorio local modificado a la nube de "github" a través del comando "git push --set-upstream origin main" y así tenerlo todo guardado en remoto.<p>
 
 ***9.Noveno Paso.***
-<p>Creo una nueva rama además del main a través del siguiente comando "git branch development" y cambio a la nueva rama creada a través del comando "git checkout development". Para subirlo a la nube de github uso el comando "git push origin development."<p>
+<p>Creo una nueva rama además del main a través del siguiente comando "git branch development",cambio a la nueva rama creada a través del comando "git checkout development" y , modifico el codigo del programa simple a "cosole.log("Hello Wordl01);". Para subirlo a la nube de github uso el comando "git push origin development."<p>
 
 ***10.Décimo Paso.***
 <p>Regreso a la rama main a través del comando "git checkout main" y realizo el merge de ambas ramas usando el comando "git merge development".<p>
