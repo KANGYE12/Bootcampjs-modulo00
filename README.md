@@ -30,4 +30,4 @@
 <p>Regreso a la rama main a través del comando "git checkout main" y realizo el merge de ambas ramas usando el comando "git merge development". Como se produce un conflicto en ambas ramas debido a al pequeño cambio de código que realice anteriormente, para solucionar dichi conflicto tenemos que decidir entre manterner los cambios, cambiar los cambios a la nueva rama o mantener ambos cambios. En mi caso elegí la última de todas.<p>
 
 ***11.Undécimo Paso***
-<p>Para subir dichos cambios en el repositorio en remoto(github) uso simplemente el comando "git push".<p>
+<p>Para subir dichos cambios en el repositorio en remoto(github) uso un commit para guardar dichos cambios en local y lo subo a remoto usando simplemente el comando "git push".<p>
